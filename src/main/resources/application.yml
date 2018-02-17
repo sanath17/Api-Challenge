@@ -1,0 +1,7 @@
+spring.h2.console.enabled: true
+logging.level.org.hibernate.SQL: debug
+spring:
+  profiles:
+    active: "dev"
+  main:
+    banner-mode: "off"
