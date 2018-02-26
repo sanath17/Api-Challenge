@@ -8,7 +8,7 @@ import com.disney.studios.model.User;
 /**
  * JPA {@link UserRepository} for {@link User} 
  * 
- * @author Bhanu
+ * @author Sanath
  *
  */
 public interface UserRepository extends CrudRepository<User, Integer> {

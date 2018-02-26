@@ -7,7 +7,7 @@ import com.disney.studios.model.Breed;
 /**
  * JPA {@link BreedRepository} for {@link Breed} 
  * 
- * @author Bhanu
+ * @author Sanath
  *
  */
 public interface BreedRepository extends CrudRepository<Breed, Integer> {

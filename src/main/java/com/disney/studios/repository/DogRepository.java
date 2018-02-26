@@ -8,7 +8,7 @@ import com.disney.studios.model.Dog;
 /**
  * JPA {@link DogRepository} for {@link Dog} 
  * 
- * @author Bhanu
+ * @author Sanath
  *
  */
 public interface DogRepository extends CrudRepository<Dog, Integer> {

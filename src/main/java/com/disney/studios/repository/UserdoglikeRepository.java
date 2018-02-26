@@ -10,7 +10,7 @@ import com.disney.studios.model.Userdoglike;
 /**
  * JPA {@link UserdoglikeRepository} for {@link Userdoglike} 
  * 
- * @author Bhanu
+ * @author Sanath
  *
  */
 public interface UserdoglikeRepository extends CrudRepository<Userdoglike, Integer> {
